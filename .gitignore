@@ -5,7 +5,7 @@ out/
 /build
 /.dart_tool
 /.idea/
-my_app.iml
+*.iml
 
 ### Eclipse ###
 .apt_generated
