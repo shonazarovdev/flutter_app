@@ -10,6 +10,8 @@ class _HomePageState extends State<HomePage> {
   List<DietModel> diets = [];
   List<PopularDietsModel> popularDiets = [];
 
+  // ппрггри
+
   void _getInitialInfo() {
     categories = CategoryModel.getCategories();
     diets = DietModel.getDiets();
